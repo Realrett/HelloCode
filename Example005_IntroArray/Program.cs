@@ -10,3 +10,7 @@ return result;
 int[] array ={21,29,34,41,56,67,77,88,19}; // Ввели массив чисел
 array[0] = 17; // Присвоили нулевому элементу массива значение 12
 Console.WriteLine(array[0]); //выводим на консоль нулевой элемент массива
+int max= Max(Max(array[0], array[1], array[2]),
+             Max(array[3], array[4], array[5]),
+             Max(array[6], array[7], array[8]));
+Console.WriteLine(max);
