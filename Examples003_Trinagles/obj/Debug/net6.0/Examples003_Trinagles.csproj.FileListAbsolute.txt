@@ -1,0 +1,15 @@
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\Examples003_Trinagles.csproj.AssemblyReference.cache
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\Examples003_Trinagles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\Examples003_Trinagles.AssemblyInfoInputs.cache
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\Examples003_Trinagles.AssemblyInfo.cs
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\Examples003_Trinagles.csproj.CoreCompileInputs.cache
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\bin\Debug\net6.0\Examples003_Trinagles.exe
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\bin\Debug\net6.0\Examples003_Trinagles.deps.json
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\bin\Debug\net6.0\Examples003_Trinagles.runtimeconfig.json
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\bin\Debug\net6.0\Examples003_Trinagles.dll
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\bin\Debug\net6.0\Examples003_Trinagles.pdb
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\Examples003_Trinagles.dll
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\refint\Examples003_Trinagles.dll
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\Examples003_Trinagles.pdb
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\Examples003_Trinagles.genruntimeconfig.cache
+C:\Users\Gosha\Desktop\Examples\Examples003_Trinagles\obj\Debug\net6.0\ref\Examples003_Trinagles.dll
